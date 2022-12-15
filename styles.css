@@ -268,3 +268,25 @@ p {
     color: white;
     cursor: help;
 }
+
+.Z1 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 300px;
+    
+}
+
+.ZCC {
+    padding-top: 40px;
+    display: flex;
+    max-width: 1475px;
+    flex-wrap: wrap;
+    margin: row;
+    justify-content: space-evenly;
+    margin: auto;
+    grid-row: 4;
+}
