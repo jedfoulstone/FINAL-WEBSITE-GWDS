@@ -101,6 +101,7 @@ h2 {
 p {
     font-size: larger;
 
+
 }
 
 .carptaskimg {
@@ -156,7 +157,7 @@ p {
     backdrop-filter: blur (15px);
     -webkit-text-stroke-width: 0.5px;
     -webkit-text-stroke-color: black;
-   
+
 
 }
 
@@ -200,7 +201,7 @@ p {
 
 .imgoverlay1:hover {
     opacity: 1;
-    
+
 
 }
 
@@ -217,4 +218,53 @@ p {
 .ZXC {
     font-size: xx-large;
     padding-top: 35px;
+}
+
+.cntr1 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 300px;
+    
+}
+
+.cntr2 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 300px;
+    
+}
+
+.cntr3 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 300px;
+    
+}
+
+.t11 {
+    color: white;
+    cursor: help;
+
+}
+
+.t12 {
+    color: white;
+    cursor: help;
+}
+
+.t13 {
+    color: white;
+    cursor: help;
 }
